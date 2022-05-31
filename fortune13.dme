@@ -2366,6 +2366,7 @@
 #include "code\modules\jobs\job_types\bos.dm"
 #include "code\modules\jobs\job_types\enclave.dm"
 #include "code\modules\jobs\job_types\followers.dm"
+#include "code\modules\jobs\job_types\institute.dm"
 #include "code\modules\jobs\job_types\khan.dm"
 #include "code\modules\jobs\job_types\legion.dm"
 #include "code\modules\jobs\job_types\ncr.dm"
